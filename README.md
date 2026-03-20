@@ -129,6 +129,11 @@ and more.
   gas fees with it's autocompounding feature. See the best yields that DeFi has
   to offer, set your crypto to work and let Harvest handle the rest!
 
+- **[LaT-PFN Signals](https://frontend-pi-fawn-4b09ub6edt.vercel.app)**: AI-powered
+  futures trading signals verified on-chain. Uses LaT-PFN zero-shot time-series
+  forecasting for micro futures (MNQ, MYM, MES, MBT). Every forecast is hashed
+  and posted to Base L2 before delivery, eliminating hindsight bias.
+
 - **[Maverick Protocol](https://app.mav.xyz/pools)**: Maverick Protocol is
   eliminating inefficiency from DeFi by helping users put liquidity where it can
   do the most work. Backed by Founders Fund, Pantera Capital, Coinbase Ventures,
